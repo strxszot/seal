@@ -67,10 +67,8 @@ function App() {
         <h1 className="text-4xl font-bold m-4 mb-8">Waves Foundation Seal Mysden Labs</h1>
         <div class="logo">
     <img src="https://i.postimg.cc/K4W8z9r6/logo.png" alt="Logo" />
-  </div>
 
   <div class="team-name">Waves Founation Owner</div>
-
   <div class="social-icons">
     <a href="https://t.me/lvcyferz666" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
