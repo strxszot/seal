@@ -65,7 +65,22 @@ function App() {
     <Container>
       <Flex position="sticky" px="4" py="2" justify="between">
         <h1 className="text-4xl font-bold m-4 mb-8">Waves Foundation Seal Mysden Labs</h1>
-        <img src="https://postimg.cc/K4W8z9r6" alt="Waves Foundation" width="100">
+        <div class="logo">
+    <img src="https://i.postimg.cc/K4W8z9r6/logo.png" alt="Logo" />
+  </div>
+
+  <div class="team-name">Waves Founation Owner</div>
+
+  <div class="social-icons">
+    <a href="https://t.me/lvcyferz666" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
+    </a>
+    <a href="https://x.com/lvcyferz666" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Twitter X">
+    </a>
+  </div>
+
+  <div class="connect-text">Please connect your SUI wallet to continue</div>
         {/* <p>TODO: add seal logo</p> */}
         <Box>
           <ConnectButton />
