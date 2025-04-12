@@ -64,13 +64,13 @@ function App() {
   return (
     <Container>
       <Flex position="sticky" px="4" py="2" justify="between">
-        <h1 className="text-4xl font-bold m-4 mb-8">Waves Foundation Feat Seal Mysden</h1>
+        <h1 className="text-4xl font-bold m-4 mb-8">Waves Foundation Seal Mysden Labs</h1>
+        <img src="https://postimg.cc/K4W8z9r6" alt="Waves Foundation" width="100">
         {/* <p>TODO: add seal logo</p> */}
         <Box>
           <ConnectButton />
         </Box>
       </Flex>
-      <img src="https://postimg.cc/K4W8z9r6" alt="Waves Foundation" width="250">
 
       <Card style={{ marginBottom: '2rem' }}>
         <p>
