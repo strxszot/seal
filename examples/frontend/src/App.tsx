@@ -70,6 +70,8 @@ function App() {
           <ConnectButton />
         </Box>
       </Flex>
+      <img src="https://postimg.cc/K4W8z9r6" alt="Waves Foundation" width="250">
+
       <Card style={{ marginBottom: '2rem' }}>
         <p>
           1. Code is available{' '}
